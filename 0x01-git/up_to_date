@@ -1,0 +1,13 @@
+// get changes from remot repo 
+git pull
+// adding changes files to local repo
+git add . //stage erea
+git commit -m 'commit' //commiting (snapshoting)
+//create branch
+git branch <branch name>
+//switch branch
+git switch <other branch name>
+//pushing
+git push
+//cloning
+git clone [repo link]
